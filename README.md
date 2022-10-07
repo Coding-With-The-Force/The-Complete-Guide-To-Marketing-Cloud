@@ -1,8 +1,8 @@
-# Marketing Cloud Admin Exam Guide
+# The Complete Guide To Marketing Cloud
 
-### The Marketing Cloud Admin Exam Guide Wiki 
+### The Complete Guide to Marketing Cloud Wiki (Currently In Progress)
 
-Housed in this repo is a <a href="https://github.com/Coding-With-The-Force/Marketing-Cloud-Admin-Exam-Guide/wiki" target="_blank">wiki</a> that goes over all of the major areas you should study to be successful on the Marketing Cloud Admin exam! So definitely check it out!
+Housed in this repo is a <a href="https://github.com/Coding-With-The-Force/Marketing-Cloud-Admin-Exam-Guide/wiki" target="_blank">wiki</a> that goes over all of the major areas you should study to be able to successfully implement Marketing Cloud! It will also give you all the information you need to pass every single Marketing Cloud Cert currently available! So definitely check it out!
 
 ***
 
